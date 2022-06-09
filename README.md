@@ -2,7 +2,7 @@
 
 Completed as part of Alchemy's ["Road to Web3"](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
-This was week 4, creating a dNFT that takes a price feed and randomly changes its display image based on the data.
+This was week 5, creating a dNFT that takes a price feed and randomly changes its display image based on the data.
 
 Tutorial found here [Connect APIs to your Smart Contracts using Chainlink](https://www.youtube.com/watch?v=hNdXSMKLDi4&list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF&index=5)
 
